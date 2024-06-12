@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dledeflecio.github.io/sitemap.html
+Sitemap: https://dledeflecio.github.io/app/sitemap.html
+Sitemap: https://dledeflecio.github.io/assets/sitemap.html
+Sitemap: https://dledeflecio.github.io/css/sitemap.html
+Sitemap: https://dledeflecio.github.io/includes/sitemap.html
+Sitemap: https://dledeflecio.github.io/item/sitemap.html
+Sitemap: https://dledeflecio.github.io/src/sitemap.html
